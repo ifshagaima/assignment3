@@ -1,0 +1,18 @@
+[
+  {
+    "customer": "Alice",
+    "city": "New York"
+  },
+  {
+    "customer": "Bob",
+    "city": "London"
+  },
+  {
+    "customer": "Charlie",
+    "city": "Mumbai"
+  },
+  {
+    "customer": "David",
+    "city": "InvalidCity123"
+  }
+]
